@@ -1,2 +1,3 @@
-# file_formats
+# File formats
+
 Explaining the structure of file formats.
